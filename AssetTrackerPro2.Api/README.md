@@ -1,1 +1,0 @@
-# assetTracker-api
