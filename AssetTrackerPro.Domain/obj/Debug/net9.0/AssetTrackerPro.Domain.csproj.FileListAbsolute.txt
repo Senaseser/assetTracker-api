@@ -1,0 +1,11 @@
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/bin/Debug/net9.0/AssetTrackerPro.Domain.deps.json
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/bin/Debug/net9.0/AssetTrackerPro.Domain.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/bin/Debug/net9.0/AssetTrackerPro.Domain.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.AssemblyInfoInputs.cache
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.AssemblyInfo.cs
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.csproj.CoreCompileInputs.cache
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/refint/AssetTrackerPro.Domain.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/AssetTrackerPro.Domain.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Domain/obj/Debug/net9.0/ref/AssetTrackerPro.Domain.dll

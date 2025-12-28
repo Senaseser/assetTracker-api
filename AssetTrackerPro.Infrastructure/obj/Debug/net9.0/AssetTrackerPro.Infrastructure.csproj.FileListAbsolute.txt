@@ -1,0 +1,17 @@
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Infrastructure.deps.json
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Infrastructure.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Infrastructure.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Application.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Domain.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Domain.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/bin/Debug/net9.0/AssetTrackerPro.Application.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.csproj.AssemblyReference.cache
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.AssemblyInfoInputs.cache
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.AssemblyInfo.cs
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTra.CAFACA98.Up2Date
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/refint/AssetTrackerPro.Infrastructure.dll
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/AssetTrackerPro.Infrastructure.pdb
+/Users/senaeser/Projects/AssetTrackerPro/AssetTrackerPro.Infrastructure/obj/Debug/net9.0/ref/AssetTrackerPro.Infrastructure.dll

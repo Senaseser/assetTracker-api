@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET: API",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/AssetTrackerPro.Api/bin/Debug/net9.0/AssetTrackerPro.Api.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/AssetTrackerPro.Api",
+      "stopAtEntry": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      },
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    {
+      "name": "Containers: .NET Container SDK Launch",
+      "type": "docker",
+      "request": "launch",
+      "netCore": {
+        "appProject": "${workspaceFolder}/AssetTrackerPro.Api/AssetTrackerPro.Api.csproj",
+        "buildWithSdk": true
+      }
+    }
+  ]
+}
